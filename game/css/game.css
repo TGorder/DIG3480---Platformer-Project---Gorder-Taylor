@@ -10,8 +10,11 @@
 				 background-size: 40px 40px; }
 .breakaway	   { background-image: url("breakawaySpritemk2.png");
 				 background-size: 40px 40px; }
+.coin   { background: rgb(235,235,0); }
 .actor  { position: absolute;  }
-.player { background: rgb(0,0,0); }
+.player { background-image: url("playerSprite.png"); 
+          background-size: 24px 72px;}
+
 
 .game {
   overflow: hidden;
